@@ -29,7 +29,5 @@ int main()
 		std::cout << i << std::endl;
 	}
 
-	wordsList.clear();
-
 	return 0;
 }
