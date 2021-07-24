@@ -21,4 +21,6 @@ int main()
 	}
 
 	std::cout << ((helloIterator == hello.length()) ? "YES" : "NO");
+	
+	return 0;
 }
