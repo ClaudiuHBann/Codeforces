@@ -1,4 +1,4 @@
-/*
+/* 
 		#				When				Who							Problem	Lang				Verdict		Time	Memory
 
 	148727080	Mar/07/2022 19:45UTC+2	ClaudiuHBann	1343C - Alternating Subsequence	GNU C++14	Accepted	77 ms	0 KB
